@@ -8,5 +8,6 @@
 </head>
 <body>
 <p>Hi, I am a test project!</p>
+<!-- This is a test for git change -->
 </body>
 </html>
