@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
+    <finalName>TestProject</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -16,9 +17,9 @@
       </plugin>
       
       <plugin>
-		  <artifactId>maven-war-plugin</artifactId>
-	      <version>3.0.0</version>
-	  </plugin>
+	<artifactId>maven-war-plugin</artifactId>
+	<version>3.0.0</version>
+      </plugin>
     </plugins>
   </build>
 </project>
