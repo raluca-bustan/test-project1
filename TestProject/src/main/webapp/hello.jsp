@@ -7,6 +7,6 @@
     <title>This is a test project for BuildSystem</title>
 </head>
 <body>
-    <p>Hi, I am a test project + a change!</p>
+    <p>Hi, I am a test project!</p>
 </body>
 </html>
