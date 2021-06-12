@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="ISO-8859-1">
-    <title>This is a test project for BuildSystem</title>
+    <title>This is a test project for BLake</title>
 </head>
 <body>
     <p>Hi, I am a test project!</p>
