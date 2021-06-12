@@ -7,6 +7,6 @@
     <title>Test project for BLake</title>
 </head>
 <body>
-    <p>Hi, I am a test project!</p>
+    <p>Hi, I am a test project! </p>
 </body>
 </html>
